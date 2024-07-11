@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Tesseract from "tesseract.js";
-import "./OCRComponent.css"; // Import the CSS file
+import "./OCRComponent.css";
 
 const OCRComponent = () => {
   const [selectedImage, setSelectedImage] = useState(null);
