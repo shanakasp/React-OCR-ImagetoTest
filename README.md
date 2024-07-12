@@ -1,4 +1,4 @@
-# Extract test from an Image
+# Extract text from an Image
 
 Live Preview: https://imagetotest.netlify.app/
 
